@@ -28,7 +28,6 @@ png(filename = png_filename,
 plot(hpc_filtered$DateTime,
     hpc_filtered$Global_active_power,
     type = "l",
-    main = "Global Active Power 2007-02-01 and 2007-02-02",
     xlab = "",
     ylab = "Global Active Power (kilowatts)")
 
