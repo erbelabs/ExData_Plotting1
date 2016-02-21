@@ -28,7 +28,6 @@ png(filename = png_filename,
 plot(hpc_filtered$DateTime,
      hpc_filtered$Sub_metering_1,
      type = "l",
-     main = "Energy Sub-metering 2007-02-01 and 2007-02-02",
      xlab = "",
      ylab = "Energy Sub metering")
 
